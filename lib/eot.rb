@@ -2,5 +2,6 @@ require 'eot'
 require 'eot/version'
 # module Eot
 module Eot
-  include Eot
+  class Eot
+  end
 end
