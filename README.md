@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/eot.svg)](http://badge.fury.io/rb/eot)
+
 # Eot
 
 A binary that will compute sunrise and sunset for a given location and
