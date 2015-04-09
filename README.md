@@ -1,26 +1,20 @@
 # Eot
 
-TODO: Write a gem description
-
+A binary that will compute sunrise and sunset for a given location and
+date.
 ## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'eot'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install eot
 
+This should install celes and equationoftime gems also.
+
 ## Usage
 
-TODO: Write usage instructions here
+    $ eot 0.0 0.0 YYYY-MM-DD
+
+    $ eot
+
+    "eot +-your latitude as float +-your longitude as float a date as yyyy-mm-nn"
 
 ## Contributing
 
